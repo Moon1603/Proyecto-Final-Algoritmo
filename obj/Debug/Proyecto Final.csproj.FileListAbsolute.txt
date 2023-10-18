@@ -1,0 +1,14 @@
+C:\Users\garym\OneDrive\Documentos\UNIVERSIDAD\Proyecto\Algoritmo\Proyecto Final\bin\Debug\Proyecto Final.exe.config
+C:\Users\garym\OneDrive\Documentos\UNIVERSIDAD\Proyecto\Algoritmo\Proyecto Final\bin\Debug\Proyecto Final.exe
+C:\Users\garym\OneDrive\Documentos\UNIVERSIDAD\Proyecto\Algoritmo\Proyecto Final\bin\Debug\Proyecto Final.pdb
+C:\Users\garym\OneDrive\Documentos\UNIVERSIDAD\Proyecto\Algoritmo\Proyecto Final\obj\Debug\Proyecto Final.csproj.AssemblyReference.cache
+C:\Users\garym\OneDrive\Documentos\UNIVERSIDAD\Proyecto\Algoritmo\Proyecto Final\obj\Debug\Proyecto Final.csproj.CoreCompileInputs.cache
+C:\Users\garym\OneDrive\Documentos\UNIVERSIDAD\Proyecto\Algoritmo\Proyecto Final\obj\Debug\Proyecto Final.exe
+C:\Users\garym\OneDrive\Documentos\UNIVERSIDAD\Proyecto\Algoritmo\Proyecto Final\obj\Debug\Proyecto Final.pdb
+C:\Users\garym\OneDrive\Documentos\UNIVERSIDAD\Proyecto\Algoritmo\Proyecto Final\Proyecto Final\bin\Debug\Proyecto Final.exe.config
+C:\Users\garym\OneDrive\Documentos\UNIVERSIDAD\Proyecto\Algoritmo\Proyecto Final\Proyecto Final\bin\Debug\Proyecto Final.exe
+C:\Users\garym\OneDrive\Documentos\UNIVERSIDAD\Proyecto\Algoritmo\Proyecto Final\Proyecto Final\bin\Debug\Proyecto Final.pdb
+C:\Users\garym\OneDrive\Documentos\UNIVERSIDAD\Proyecto\Algoritmo\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final.csproj.AssemblyReference.cache
+C:\Users\garym\OneDrive\Documentos\UNIVERSIDAD\Proyecto\Algoritmo\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final.csproj.CoreCompileInputs.cache
+C:\Users\garym\OneDrive\Documentos\UNIVERSIDAD\Proyecto\Algoritmo\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final.exe
+C:\Users\garym\OneDrive\Documentos\UNIVERSIDAD\Proyecto\Algoritmo\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final.pdb
